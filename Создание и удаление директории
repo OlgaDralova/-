@@ -1,0 +1,42 @@
+Команды Linux создание и удаление директорий: H2
+1)mkdir classics - списки
+2)rmdir /home/classics -списки
+3)uname -a -сп
+Список выводов:
+4)Операционная система на которой мы находимся* - тут -----
+5)выпуск ядра
+6)date
+8)& или ;
+9)clear
+10)pwd
+11)cd home
+Команды ls: H2
+12)ls показывает содержание текужего каталога .ls -R отображает содержимое поддиректорий
+13)ls
+14)ls -ls
+15)ls -la
+Попасть в каталог
+16)cd /hpme/test 17)cd etc/X11 18)cd root 19)cd /etc
+
+Переход между каталогами
+20)находясь в etc ввести команду cat group
+21)cat group passwd
+22)head -n5 passwd
+23)tail -n3 passwd
+24)wc -l passwd
+25)cd ..
+26)touch file1 file2 file3
+Создание,копирование,удаление каталогов и файлов
+27)mkdir dir1 dir2 dir3
+28)cp -R ~/file1 ~/dir1/
+29)cat ssh>dir2
+30)зайти в dir1 и ввести cat vegetables
+31)mv dir2/ssh/sshd_config ../dir3/vegetables
+32)mkdir practice1
+33)cp -R file1 file2
+34)mkdir -p house/furniture
+35)cd /home/house/furniture
+chairs
+
+36)mkdir records memos misc
+carrot mv carrot 
