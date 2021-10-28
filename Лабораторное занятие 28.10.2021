@@ -1,5 +1,5 @@
 Вариант 6
-=int(input())
+a=int(input())
 b=int(input())
 c=int(input())
 print('Объём =' ,a*b*c)
@@ -13,7 +13,7 @@ a=int(input(3))
 b=int(input(4))
 c=int(input(5))
 if a < b and b < c:
-	  print('Равенство справедливо')
+    print('Равенство справедливо')
 else:
     print('Равенство несправедливо')
     
