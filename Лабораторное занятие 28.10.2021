@@ -1,0 +1,26 @@
+Вариант 6
+=int(input())
+b=int(input())
+c=int(input())
+print('Объём =' ,a*b*c)
+print('Площадь полной поверхности =',2*(a*b + b*c + a*c) )
+
+a=int(input(10))
+print(a//10)
+print(a%10)
+
+a=int(input(3))
+b=int(input(4))
+c=int(input(5))
+if a < b and b < c:
+	  print('Равенство справедливо')
+else:
+    print('Равенство несправедливо')
+    
+a=int(input())
+b=int(input())
+if a > b:
+    print(a)
+if b > a:
+    print(b)
+  
